@@ -1,5 +1,7 @@
 # SqlServerFunctions
 
+
+
 3) A partir das tabelas abaixo, faça:
 Funcionário (Código, Nome, Salário)
 Dependendente (Código_Funcionário, Nome_Dependente, Salário_Dependente)
